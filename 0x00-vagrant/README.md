@@ -1,0 +1,1 @@
+echo "Vagrant" > README.md
