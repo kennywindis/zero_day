@@ -1,1 +1,1 @@
-echo "Vagrant" > README.md
+This is vagrant
